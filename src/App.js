@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Body from "./components/Body";
-import NOM from "./NOM-016.js";
+import NOM from "./NOM-015.js";
 import APENDICES from "./NOM-016A.js";
 import React, { Component, useState, useEffect } from "react";
 import { v4 as uuidv4 } from "uuid";
